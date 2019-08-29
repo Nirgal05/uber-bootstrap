@@ -1,0 +1,25 @@
+.ub-separator{
+    background-color: #000000;
+}
+
+.ub-btn-dark{
+    background-color: #000000;
+    color: white;
+}
+
+.ub-label{
+    color: #535353;
+}
+
+.ub-bg-gray{
+    color: #f7f7f7;
+}
+
+.ub-bg-dark{
+    background-color: #000000;
+    color: white;
+}
+
+.ub-text-success{
+    color: #57b981;
+}
