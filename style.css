@@ -34,6 +34,11 @@
     font-size: 18px;
 }
 
+.ub-bg-dark a{
+    color: white;
+    text-decoration: none;
+}
+
 .ub-icon-lg{
     font-size: 54px;
 }
@@ -55,6 +60,19 @@
     height: 38px;
 }
 
+.ub-img-profile-menu {
+    margin-left: 8px;
+    max-width: 70px;
+}
+
 p{
     font-weight: 600;
+}
+
+a{
+    color: #000000;
+}
+
+hr{
+    background-color: #545454;
 }
