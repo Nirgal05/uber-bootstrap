@@ -41,3 +41,20 @@
 .ub-text-success{
     color: #47b275;
 }
+
+.ub-img-profile{
+    width: 112px;
+    margin-left: 8px;
+}
+
+.ub-btn-edit-img{
+    position: relative;
+    margin-top: -60px;
+    border-radius: 32px;
+    width: 38px;
+    height: 38px;
+}
+
+p{
+    font-weight: 600;
+}
