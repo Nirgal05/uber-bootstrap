@@ -4,15 +4,24 @@
 
 .ub-btn-dark{
     background-color: #000000;
-    color: white;
+    color: white !important;
 }
 
 .ub-label{
-    color: #535353;
+    color: #545454;
+}
+
+.ub-label-info{
+    color: #276ef2;
 }
 
 .ub-bg-gray{
-    color: #f7f7f7;
+    background-color: #f7f7f7;
+}
+
+.ub-bg-white{
+    background-color: white;
+    border-top: solid 1px #eeeeee;
 }
 
 .ub-bg-dark{
@@ -20,6 +29,15 @@
     color: white;
 }
 
+.ub-bg-dark .fa{
+    color: white;
+    font-size: 18px;
+}
+
+.ub-icon-lg{
+    font-size: 54px;
+}
+
 .ub-text-success{
-    color: #57b981;
+    color: #47b275;
 }
